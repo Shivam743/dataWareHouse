@@ -31,8 +31,4 @@ sql-data-warehouse-project/
 - Python 3.8+ (for ETL scripts)
 - Git
 
-## License
-[Add your license here]
 
-## Contributing
-Please follow standard Git workflow for contributions.
